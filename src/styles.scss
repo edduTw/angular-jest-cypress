@@ -2,12 +2,3 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-$font-stack: Helvetica, sans-serif;
-$primary-color: #ccc;
-
-body {
-  
-  background-color: azure;
-  font: 100% $font-stack;
-  color: $primary-color;
-}

@@ -23,6 +23,8 @@ Una vez generado el password este se debe mostrar en pantalla y permitir copiar.
 - Activar o desactivar boton segun requerimeintos.
 - Crear algoritmo generador de password
 
+
+image.png
 ### Deseables
 
 - Aplicar Unit test con Jest
