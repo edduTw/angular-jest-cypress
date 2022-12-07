@@ -24,7 +24,8 @@ Una vez generado el password este se debe mostrar en pantalla y permitir copiar.
 - Crear algoritmo generador de password
 
 
-image.png
+![image](https://user-images.githubusercontent.com/105245178/206198650-b16ca741-1138-44a5-b772-7f3330819316.png)
+
 ### Deseables
 
 - Aplicar Unit test con Jest
